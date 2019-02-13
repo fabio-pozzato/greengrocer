@@ -3,6 +3,7 @@
 This simple application reads a list of fruits from a text file (sample under resources/shopping_items.txt). 
 It then processes the data as per the requirements and prints to the console a formatted receipt, see example below:
 
+<pre>
   : -------------------------------
   :            Receipt
   : -------------------------------
@@ -19,3 +20,4 @@ It then processes the data as per the requirements and prints to the console a f
   : 
   : -------------------------------
   : Total cost:            11.7 CHF
+</pre>
